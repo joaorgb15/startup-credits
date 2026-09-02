@@ -41,7 +41,7 @@ offers:
     economics:
       benefits:
         - benefit_id: ben_01
-          description: Full Oprex Pro tier free for 12 months, including projects, members, pipeline minutes, SSO, and the beta channel
+          description: Full Oprex Pro tier free for 12 months, including projects, members, pipeline minutes, and priority support
           kind: free-service
           service: Oprex Pro plan
           duration:
