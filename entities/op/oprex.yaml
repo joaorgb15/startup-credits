@@ -11,6 +11,7 @@ entity:
   category: devtools-other
 
 profile:
+  summary: Oprex is a software lifecycle platform that keeps requirements, tests, releases, bugs, and Git in one system of record.
   description: Oprex is a software lifecycle platform for requirements, tests, releases, bugs, Git, pipelines, and AI-assisted development workflows.
   links:
     site: https://oprex.id/
