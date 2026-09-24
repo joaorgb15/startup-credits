@@ -31,11 +31,10 @@ offers:
       effective_from: 2026-09-02T00:20:48.382Z
     economics:
       consideration:
-        kind: variable
-        description: After 6 months or once the $2,000 in credits is used, whichever comes first, the RHEL subscription moves to standard Google Cloud Marketplace list pricing; infrastructure costs outside RHEL usage are the startup's.
+        kind: none
       benefits:
         - benefit_id: ben_01
-          description: $2,000 in Red Hat software credits for Red Hat Enterprise Linux on Google Cloud, lasting 6 months or until the credits are used
+          description: $2,000 in software credits to help your initial build costs
           duration:
             kind: up-to
             value: P6M
